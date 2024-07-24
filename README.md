@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
+| [2752-sum-multiples](https://github.com/PS-Naveen/Leetcode/tree/master/2752-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
