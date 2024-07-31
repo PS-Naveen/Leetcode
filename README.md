@@ -49,6 +49,7 @@
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
