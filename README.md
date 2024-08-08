@@ -16,6 +16,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/PS-Naveen/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
+| [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 ## Design
 |  |
 | ------- |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 <!---LeetCode Topics End-->
