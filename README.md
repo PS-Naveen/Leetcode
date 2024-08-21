@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
+| [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/PS-Naveen/Leetcode/tree/master/2752-sum-multiples) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
+| [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Design
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/PS-Naveen/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
