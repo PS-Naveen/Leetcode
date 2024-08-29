@@ -29,6 +29,7 @@
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2825-minimize-string-length](https://github.com/PS-Naveen/Leetcode/tree/master/2825-minimize-string-length) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PS-Naveen/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/PS-Naveen/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2825-minimize-string-length](https://github.com/PS-Naveen/Leetcode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
