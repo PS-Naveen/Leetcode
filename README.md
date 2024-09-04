@@ -67,6 +67,7 @@
 | [2825-minimize-string-length](https://github.com/PS-Naveen/Leetcode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3379-score-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
