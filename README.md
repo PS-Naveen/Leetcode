@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PS-Naveen/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PS-Naveen/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
