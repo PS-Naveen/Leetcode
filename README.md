@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/PS-Naveen/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PS-Naveen/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
