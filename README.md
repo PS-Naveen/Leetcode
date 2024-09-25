@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/PS-Naveen/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PS-Naveen/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
