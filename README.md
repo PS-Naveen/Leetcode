@@ -26,6 +26,7 @@
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -124,4 +127,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PS-Naveen/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
