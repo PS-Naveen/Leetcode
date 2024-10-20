@@ -25,6 +25,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PS-Naveen/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/PS-Naveen/Leetcode/tree/master/1580-shuffle-the-array) |
+| [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -104,6 +105,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
