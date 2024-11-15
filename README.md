@@ -39,6 +39,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2226-rings-and-rods](https://github.com/PS-Naveen/Leetcode/tree/master/2226-rings-and-rods) |
 | [2825-minimize-string-length](https://github.com/PS-Naveen/Leetcode/tree/master/2825-minimize-string-length) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 ## Math
@@ -82,6 +83,7 @@
 | [1894-merge-strings-alternately](https://github.com/PS-Naveen/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/PS-Naveen/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2226-rings-and-rods](https://github.com/PS-Naveen/Leetcode/tree/master/2226-rings-and-rods) |
 | [2235-capitalize-the-title](https://github.com/PS-Naveen/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/PS-Naveen/Leetcode/tree/master/2825-minimize-string-length) |
