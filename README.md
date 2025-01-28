@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PS-Naveen/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PS-Naveen/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -80,6 +82,7 @@
 | [0020-valid-parentheses](https://github.com/PS-Naveen/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PS-Naveen/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PS-Naveen/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/PS-Naveen/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
