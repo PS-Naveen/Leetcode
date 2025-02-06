@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PS-Naveen/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PS-Naveen/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PS-Naveen/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PS-Naveen/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/PS-Naveen/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PS-Naveen/Leetcode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PS-Naveen/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
