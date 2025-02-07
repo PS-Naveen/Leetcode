@@ -55,6 +55,7 @@
 | [0263-ugly-number](https://github.com/PS-Naveen/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PS-Naveen/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2083-three-divisors](https://github.com/PS-Naveen/Leetcode/tree/master/2083-three-divisors) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/PS-Naveen/Leetcode/tree/master/2752-sum-multiples) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -169,4 +170,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PS-Naveen/Leetcode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/PS-Naveen/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/PS-Naveen/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
