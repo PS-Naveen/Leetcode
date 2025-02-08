@@ -54,6 +54,7 @@
 | [0231-power-of-two](https://github.com/PS-Naveen/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PS-Naveen/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/PS-Naveen/Leetcode/tree/master/0292-nim-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PS-Naveen/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/PS-Naveen/Leetcode/tree/master/2083-three-divisors) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -148,6 +149,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PS-Naveen/Leetcode/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String Matching
 |  |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/PS-Naveen/Leetcode/tree/master/2083-three-divisors) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PS-Naveen/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
