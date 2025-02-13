@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PS-Naveen/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PS-Naveen/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PS-Naveen/Leetcode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PS-Naveen/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/PS-Naveen/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PS-Naveen/Leetcode/tree/master/0242-valid-anagram) |
