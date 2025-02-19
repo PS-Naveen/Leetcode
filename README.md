@@ -21,6 +21,7 @@
 | [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PS-Naveen/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/PS-Naveen/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PS-Naveen/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/PS-Naveen/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PS-Naveen/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PS-Naveen/Leetcode/tree/master/0242-valid-anagram) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PS-Naveen/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PS-Naveen/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
@@ -142,6 +145,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Greedy
@@ -190,4 +194,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PS-Naveen/Leetcode/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
