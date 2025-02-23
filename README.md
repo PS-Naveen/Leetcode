@@ -32,6 +32,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PS-Naveen/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/PS-Naveen/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -109,6 +110,7 @@
 | [1894-merge-strings-alternately](https://github.com/PS-Naveen/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/PS-Naveen/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2226-rings-and-rods](https://github.com/PS-Naveen/Leetcode/tree/master/2226-rings-and-rods) |
 | [2235-capitalize-the-title](https://github.com/PS-Naveen/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -128,6 +130,7 @@
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PS-Naveen/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/PS-Naveen/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Design
 |  |
