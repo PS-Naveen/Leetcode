@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PS-Naveen/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PS-Naveen/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/PS-Naveen/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PS-Naveen/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PS-Naveen/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PS-Naveen/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,6 +174,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PS-Naveen/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PS-Naveen/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PS-Naveen/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,6 +205,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PS-Naveen/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
