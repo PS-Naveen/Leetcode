@@ -23,6 +23,7 @@
 | [0119-pascals-triangle-ii](https://github.com/PS-Naveen/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PS-Naveen/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PS-Naveen/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/PS-Naveen/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PS-Naveen/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -178,6 +179,7 @@
 | [0118-pascals-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PS-Naveen/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PS-Naveen/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/PS-Naveen/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
