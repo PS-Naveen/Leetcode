@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PS-Naveen/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PS-Naveen/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PS-Naveen/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PS-Naveen/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/PS-Naveen/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PS-Naveen/Leetcode/tree/master/0053-maximum-subarray) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PS-Naveen/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PS-Naveen/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
