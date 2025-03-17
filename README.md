@@ -126,6 +126,7 @@
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/3379-score-of-a-string) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
+| [3636-check-balanced-string](https://github.com/PS-Naveen/Leetcode/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
 | ------- |
