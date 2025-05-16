@@ -175,6 +175,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/PS-Naveen/Leetcode/tree/master/0175-combine-two-tables) |
 | [1908-recyclable-and-low-fat-products](https://github.com/PS-Naveen/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Brainteaser
 |  |
