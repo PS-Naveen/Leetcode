@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/PS-Naveen/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/PS-Naveen/Leetcode/tree/master/0176-second-highest-salary) |
 | [1908-recyclable-and-low-fat-products](https://github.com/PS-Naveen/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Brainteaser
 |  |
