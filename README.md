@@ -45,6 +45,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PS-Naveen/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -76,6 +77,7 @@
 | [2083-three-divisors](https://github.com/PS-Naveen/Leetcode/tree/master/2083-three-divisors) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/PS-Naveen/Leetcode/tree/master/2752-sum-multiples) |
+| [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -104,6 +106,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/PS-Naveen/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
