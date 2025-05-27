@@ -78,6 +78,7 @@
 | [2083-three-divisors](https://github.com/PS-Naveen/Leetcode/tree/master/2083-three-divisors) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/PS-Naveen/Leetcode/tree/master/2752-sum-multiples) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/PS-Naveen/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
