@@ -41,6 +41,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/PS-Naveen/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2350-find-closest-number-to-zero](https://github.com/PS-Naveen/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
