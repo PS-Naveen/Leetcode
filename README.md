@@ -51,6 +51,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PS-Naveen/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
+| [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
