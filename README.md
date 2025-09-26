@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PS-Naveen/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PS-Naveen/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +93,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PS-Naveen/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/PS-Naveen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PS-Naveen/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/PS-Naveen/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -151,6 +154,7 @@
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PS-Naveen/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PS-Naveen/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/PS-Naveen/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -181,6 +185,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/PS-Naveen/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Database
