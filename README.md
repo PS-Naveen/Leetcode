@@ -43,6 +43,7 @@
 | [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PS-Naveen/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -69,6 +70,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2226-rings-and-rods](https://github.com/PS-Naveen/Leetcode/tree/master/2226-rings-and-rods) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2825-minimize-string-length](https://github.com/PS-Naveen/Leetcode/tree/master/2825-minimize-string-length) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 ## Math
@@ -112,6 +114,7 @@
 | [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/PS-Naveen/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
@@ -160,6 +163,7 @@
 | [1894-merge-strings-alternately](https://github.com/PS-Naveen/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Design
 |  |
 | ------- |
