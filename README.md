@@ -50,6 +50,7 @@
 | [3194-find-words-containing-character](https://github.com/PS-Naveen/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 | [3582-find-indices-of-stable-mountains](https://github.com/PS-Naveen/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -118,6 +119,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
@@ -164,6 +166,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Design
 |  |
 | ------- |
