@@ -55,6 +55,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 | [3582-find-indices-of-stable-mountains](https://github.com/PS-Naveen/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3668-restore-finishing-order](https://github.com/PS-Naveen/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PS-Naveen/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -76,6 +77,7 @@
 | [2825-minimize-string-length](https://github.com/PS-Naveen/Leetcode/tree/master/2825-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PS-Naveen/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
+| [3668-restore-finishing-order](https://github.com/PS-Naveen/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
