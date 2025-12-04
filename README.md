@@ -57,6 +57,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/PS-Naveen/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3668-restore-finishing-order](https://github.com/PS-Naveen/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PS-Naveen/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3701-compute-alternating-sum](https://github.com/PS-Naveen/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -188,6 +189,7 @@
 | [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/PS-Naveen/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Counting
 |  |
 | ------- |
