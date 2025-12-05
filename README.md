@@ -47,6 +47,7 @@
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/PS-Naveen/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/PS-Naveen/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PS-Naveen/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3194-find-words-containing-character](https://github.com/PS-Naveen/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PS-Naveen/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
