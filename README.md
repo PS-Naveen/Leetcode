@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/PS-Naveen/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PS-Naveen/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PS-Naveen/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -104,6 +105,7 @@
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PS-Naveen/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/PS-Naveen/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PS-Naveen/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
