@@ -61,6 +61,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/PS-Naveen/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PS-Naveen/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3701-compute-alternating-sum](https://github.com/PS-Naveen/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PS-Naveen/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 | [3668-restore-finishing-order](https://github.com/PS-Naveen/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
