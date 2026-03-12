@@ -39,6 +39,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PS-Naveen/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/PS-Naveen/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/PS-Naveen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/PS-Naveen/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/PS-Naveen/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -267,4 +268,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PS-Naveen/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/PS-Naveen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
