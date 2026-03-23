@@ -60,6 +60,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PS-Naveen/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3582-find-indices-of-stable-mountains](https://github.com/PS-Naveen/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3668-restore-finishing-order](https://github.com/PS-Naveen/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/PS-Naveen/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -105,6 +106,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PS-Naveen/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PS-Naveen/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
