@@ -45,6 +45,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/PS-Naveen/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PS-Naveen/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/PS-Naveen/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2727-number-of-senior-citizens](https://github.com/PS-Naveen/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -190,6 +191,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PS-Naveen/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/PS-Naveen/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PS-Naveen/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -207,6 +209,7 @@
 | [1929-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/PS-Naveen/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PS-Naveen/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PS-Naveen/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/PS-Naveen/Leetcode/tree/master/3701-compute-alternating-sum) |
