@@ -178,6 +178,7 @@
 | [3379-score-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/3379-score-of-a-string) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 | [3636-check-balanced-string](https://github.com/PS-Naveen/Leetcode/tree/master/3636-check-balanced-string) |
+| [3794-reverse-string-prefix](https://github.com/PS-Naveen/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [2481-strictly-palindromic-number](https://github.com/PS-Naveen/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/PS-Naveen/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/PS-Naveen/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Design
 |  |
 | ------- |
