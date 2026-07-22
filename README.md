@@ -71,6 +71,7 @@
 | [3701-compute-alternating-sum](https://github.com/PS-Naveen/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/PS-Naveen/Leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3895-count-digit-appearances](https://github.com/PS-Naveen/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [3321-type-of-triangle](https://github.com/PS-Naveen/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PS-Naveen/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PS-Naveen/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3895-count-digit-appearances](https://github.com/PS-Naveen/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
