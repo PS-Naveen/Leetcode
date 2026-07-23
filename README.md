@@ -178,6 +178,7 @@
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/PS-Naveen/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/3379-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-report-spam-message](https://github.com/PS-Naveen/Leetcode/tree/master/3541-report-spam-message) |
 | [3636-check-balanced-string](https://github.com/PS-Naveen/Leetcode/tree/master/3636-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/PS-Naveen/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -218,6 +219,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/PS-Naveen/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2886-faulty-keyboard](https://github.com/PS-Naveen/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/PS-Naveen/Leetcode/tree/master/3226-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/PS-Naveen/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/PS-Naveen/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Counting
 |  |
