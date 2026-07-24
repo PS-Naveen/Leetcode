@@ -36,6 +36,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PS-Naveen/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0979-di-string-match](https://github.com/PS-Naveen/Leetcode/tree/master/0979-di-string-match) |
 | [1260-shift-2d-grid](https://github.com/PS-Naveen/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/PS-Naveen/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PS-Naveen/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PS-Naveen/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -85,6 +86,7 @@
 | [0268-missing-number](https://github.com/PS-Naveen/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/PS-Naveen/Leetcode/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/PS-Naveen/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/PS-Naveen/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2226-rings-and-rods](https://github.com/PS-Naveen/Leetcode/tree/master/2226-rings-and-rods) |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PS-Naveen/Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/PS-Naveen/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PS-Naveen/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PS-Naveen/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3778-transform-array-by-parity](https://github.com/PS-Naveen/Leetcode/tree/master/3778-transform-array-by-parity) |
